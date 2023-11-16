@@ -1,130 +1,130 @@
 [
   {
     "name": "Sunday Afternoon On The Island Of Grande Jatte 1864 Georges Seurat",
-    "colors": ["40544f","cab691","a1906d","9fb5c5","6f7d8e","756e62","acb590","768f60","212226","be6038"]
+    "colors": ["#40544f","#cab691","#a1906d","#9fb5c5","#6f7d8e","#756e62","#acb590","#768f60","#212226","#be6038"]
   },
   {
     "name": "Starry Night Vincent van Gogh",
-    "colors": ["f3cb04","3e6a8d","24392b","839ea2","94c0c3","242f4e","354f51","79a9d0","6098b2","a45c44"]
+    "colors": ["#f3cb04","#3e6a8d","#24392b","#839ea2","#94c0c3","#242f4e","#354f51","#79a9d0","#6098b2","#a45c44"]
   },
   {
     "name": "Grey Lines with Black, Blue, and Yellow, 1923-1925 Georgia O'Keeffe",
-    "colors": ["295069","d9ccc1","7c98a3","abc045","83456b","a2acb4","eee39a","af83a3","cc9eb4","51af6b"]
+    "colors": ["#295069","#d9ccc1","#7c98a3","#abc045","#83456b","#a2acb4","#eee39a","#af83a3","#cc9eb4","#51af6b"]
   },
   {
     "name": "American Gothic Grant Wood",
-    "colors": ["c9c198","a3b09b","887657","221f19","5a4d36","676854","41463a","5a5b5c","839394","b4644c"]
+    "colors": ["#c9c198","#a3b09b","#887657","#221f19","#5a4d36","#676854","#41463a","#5a5b5c","#839394","#b4644c"]
   },
   {
     "name": "The Kiss Gustav Klimt",
-    "colors": ["2f2b23","c59d3f","bd2426","ccc8bb","79225c","b3a486","e2d065","915b2d","927a43","429676"]
+    "colors": ["#2f2b23","#c59d3f","#bd2426","#ccc8bb","#79225c","#b3a486","#e2d065","#915b2d","#927a43","#429676"]
   },
   {
     "name": "White Center (Yellow, Pink and Lavender on Rose) 1950 Mark Rothko",
-    "colors": ["e8bb2f","f0e2d6","cd6ab5","454138","cc5838","de9466","d3959a","cb5cb0","948099","dc81cc"]
+    "colors": ["#e8bb2f","#f0e2d6","#cd6ab5","#454138","#cc5838","#de9466","#d3959a","#cb5cb0","#948099","#dc81cc"]
   },
   {
     "name": "Self-Portrait with a Straw Hat 1887 Vincent van Gogh",
-    "colors": ["ba9068","42432c","d29c16","f6d158","747368","bfad9d","cfd0ca","843a1e","ebac5e","9d6140"]
+    "colors": ["#ba9068","#42432c","#d29c16","#f6d158","#747368","#bfad9d","#cfd0ca","#843a1e","#ebac5e","#9d6140"]
   },
   {
     "name": "The Night Cafe 1888 Vincent van Gogh",
-    "colors": ["98854d","2a4743","7f302e","9fb4a4","545f50","85453a","a9a57b","cdb77b","b1bc82","6a461a"]
+    "colors": ["#98854d","#2a4743","#7f302e","#9fb4a4","#545f50","#85453a","#a9a57b","#cdb77b","#b1bc82","#6a461a"]
   },
   {
     "name": "Sunflowers on Blue, 1888 Vincent van Gogh",
-    "colors": ["a1c3af","ac773f","33362d","697864","673521","9cab8d","d1c883","c8a958","deac55","884f11"]
+    "colors": ["#a1c3af","#ac773f","#33362d","#697864","#673521","#9cab8d","#d1c883","#c8a958","#deac55","#884f11"]
   },
   {
     "name": "Cafe Terrace at Night Vincent van Gogh",
-    "colors": ["d2994f","8e7453","161b1f","788ca4","a0aaa7","37536f","617279","5a4d3f","38494c","b83e2d"]
+    "colors": ["#d2994f","#8e7453","#161b1f","#788ca4","#a0aaa7","#37536f","#617279","#5a4d3f","#38494c","#b83e2d"]
   },
   {
     "name": "The Bedroom, 1889 Vincent van Gogh",
-    "colors": ["a3aca3","c99331","2d5b5b","abc6da","dfcb96","a18e5b","6b93a0","be4735","695851","baddc3"]
+    "colors": ["#a3aca3","#c99331","#2d5b5b","#abc6da","#dfcb96","#a18e5b","#6b93a0","#be4735","#695851","#baddc3"]
   },
   {
     "name": "The Snail, 1953 Henri Matisse",
-    "colors": ["557a81","d69a41","b84b5b","fbf4e4","bf95b7","86a3a3","e5c694","c3c8c7","e2c4c3","6cbc8c"]
+    "colors": ["#557a81","#d69a41","#b84b5b","#fbf4e4","#bf95b7","#86a3a3","#e5c694","#c3c8c7","#e2c4c3","#6cbc8c"]
   },
   {
     "name": "The Codomas, 1947 Henri Matisse",
-    "colors": ["3760ed","fbf82c","913280","ff811a","d3caa9","96a6ac","f4eeda","c6c9bf","ac1a42","479574"]
+    "colors": ["#3760ed","#fbf82c","#913280","#ff811a","#d3caa9","#96a6ac","#f4eeda","#c6c9bf","#ac1a42","#479574"]
   },
   {
     "name": "Composition 8, July 1923 Wassily Kandinsky",
-    "colors": ["d8d4be","373738","a0494c","ae9476","b59741","909ea7","c6a49b","da9190","f3ede6","649cb4"]
+    "colors": ["#d8d4be","#373738","#a0494c","#ae9476","#b59741","#909ea7","#c6a49b","#da9190","#f3ede6","#649cb4"]
   },
   {
     "name": "Yellow, Red, Blue, 1925 Wassily Kandinsky",
-    "colors": ["1c3850","abb3ae","74454c","657799","b1923d","e4d0ac","927d96","c3a368","aacce3","41a4d8"]
+    "colors": ["#1c3850","#abb3ae","#74454c","#657799","#b1923d","#e4d0ac","#927d96","#c3a368","#aacce3","#41a4d8"]
   },
   {
     "name": "Small Yellow, 1926 Wassily Kandinsky",
-    "colors": ["343534","d1c293","8d3131","af7834","827f74","a3a58e","b5855a","ac7572","c7c0bd","648ca4"]
+    "colors": ["#343534","#d1c293","#8d3131","#af7834","#827f74","#a3a58e","#b5855a","#ac7572","#c7c0bd","#648ca4"]
   },
   {
     "name": "Nighthawks Edward Hopper",
-    "colors": ["dbd27e","232a28","6b7053","739e7a","487a62","4f3224","ad6631","3e5955","2f4f41","6b8e85"]
+    "colors": ["#dbd27e","#232a28","#6b7053","#739e7a","#487a62","#4f3224","#ad6631","#3e5955","#2f4f41","#6b8e85"]
   },
   {
     "name": "At the Moulin Rouge: The Dance, 1890 Henri de Toulouse Lautrec",
-    "colors": ["df9872","4e532d","9e7f47","6b874f","55906b","29210d","105d39","a2b78c","d04020","99a995"]
+    "colors": ["#df9872","#4e532d","#9e7f47","#6b874f","#55906b","#29210d","#105d39","#a2b78c","#d04020","#99a995"]
   },
   {
     "name": "Masterpiece, 1962 Roy Lichtenstein",
-    "colors": ["202227","f2dd0b","cc2827","f4eeef","959292","c4a5a9","e2c3c7","c3bebf","d0c898","403f8b"]
+    "colors": ["#202227","#f2dd0b","#cc2827","#f4eeef","#959292","#c4a5a9","#e2c3c7","#c3bebf","#d0c898","#403f8b"]
   },
   {
     "name": "The Great Wave Off the Coast of Kanagawa Katsushika Hokusai",
-    "colors": ["405063","ddccae","8b8477","9da49c","7c715a","746357","e3e0d6","ae9d7b","f1ecc9","6c9c9c"]
+    "colors": ["#405063","#ddccae","#8b8477","#9da49c","#7c715a","#746357","#e3e0d6","#ae9d7b","#f1ecc9","#6c9c9c"]
   },
   {
     "name": "The Star, ca. 1879–1881 Edgar Degas",
-    "colors": ["847b63","cacdca","d9af90","393b2c","aecfe3","d9c6af","b59471","593620","724a29","4c7cbc"]
+    "colors": ["#847b63","#cacdca","#d9af90","#393b2c","#aecfe3","#d9c6af","#b59471","#593620","#724a29","#4c7cbc"]
   },
   {
     "name": "The Beatles: Sgt Pepper’s Lonely Hearts Club Band (1967)",
-    "colors": ["91c8dc","dcc69a","372b2a","996451","617957","cd3849","7290a8","6e463b","48523e","5d576d"]
+    "colors": ["#91c8dc","#dcc69a","#372b2a","#996451","#617957","#cd3849","#7290a8","#6e463b","#48523e","#5d576d"]
   },
   {
     "name": "The Mothers Of Invention: Weasels Ripped My Flesh (1970)",
-    "colors": ["e5c926","201c22","8b3c2f","e2ded4","a46146","daaf84","8a8c7b","356f4a","4a9951","527697"]
+    "colors": ["#e5c926","#201c22","#8b3c2f","#e2ded4","#a46146","#daaf84","#8a8c7b","#356f4a","#4a9951","#527697"]
   },
   {
     "name": "Pink Floyd: The Dark Side Of The Moon (1973)",
-    "colors": ["f02f40","f39538","fcf81c","3aca5b","3dc6d3","917db0","315250","292628","142c2c","303744"]
+    "colors": ["#f02f40","#f39538","#fcf81c","#3aca5b","#3dc6d3","#917db0","#315250","#292628","#142c2c","#303744"]
   },
   {
     "name": "Led Zeppelin: Houses Of The Holy (1973)",
-    "colors": ["35302e","dedac8","f38329","f2d360","755444","908781","d2c085","90a58f","5ba28b"]
+    "colors": ["#35302e","#dedac8","#f38329","#f2d360","#755444","#908781","#d2c085","#90a58f","#5ba28b"]
   },
   {
     "name": "Prince: Purple Rain (1984)",
-    "colors": ["e6ddcd","6a4c56","ae5645","0c080b","524996","85968f","443565","3d2c2f","464f61","2a2c33"]
+    "colors": ["#e6ddcd","#6a4c56","#ae5645","#0c080b","#524996","#85968f","#443565","#3d2c2f","#464f61","#2a2c33"]
   },
   {
     "name": "Nirvana: Nevermind (1991)",
-    "colors": ["2c5ea7","1b9cc0","4bb9d5","1d232d","405462","b9c2c6","7994a5","59778e","10205a","445cdc"]
+    "colors": ["#2c5ea7","#1b9cc0","#4bb9d5","#1d232d","#405462","#b9c2c6","#7994a5","#59778e","#10205a","#445cdc"]
   },
   {
     "name": "A Tribe Called Quest: The Low End Theory (1991)",
-    "colors": ["cc2412","1d8c31","5d2214","050404","1b481b","2e150a","0e2109","342a2c","846434","130e1c"]
+    "colors": ["#cc2412","#1d8c31","#5d2214","#050404","#1b481b","#2e150a","#0e2109","#342a2c","#846434","#130e1c"]
   },
   {
     "name": "Green Day: Dookie (1994)",
-    "colors": ["b79931","e1e1e3","383134","af2105","847d84","cdbb85","aa8985","ababb6","c4afb5","5584a5"]
+    "colors": ["#b79931","#e1e1e3","#383134","#af2105","#847d84","#cdbb85","#aa8985","#ababb6","#c4afb5","#5584a5"]
   },
   {
     "name": "Weezer: The Blue Album (1994)",
-    "colors": ["b79e9c","172430","049bce","385b7b","213e65","8e4f47","5c94b1","1f7e9d","196997","7ccce4"]
+    "colors": ["#b79e9c","#172430","#049bce","#385b7b","#213e65","#8e4f47","#5c94b1","#1f7e9d","#196997","#7ccce4"]
   },
   {
     "name": "The Smashing Pumpkins: Mellon Collie And The Infinite Sadness (1995)",
-    "colors": ["cf9e5e","3c566b","828a89","ddb42d","85664f","5a7994","97afa9","b24035","112039","8ea0be"]
+    "colors": ["#cf9e5e","#3c566b","#828a89","#ddb42d","#85664f","#5a7994","#97afa9","#b24035","#112039","#8ea0be"]
   },
   {
     "name": "Big Brother & The Holding Company: Cheap Thrills (1968)",
-    "colors": ["ece8c9","39412f","7a6b41","e6da4c","eb7345","41a3a5","a3a38b","aba748","b87443","6a3224"]
+    "colors": ["#ece8c9","#39412f","#7a6b41","#e6da4c","#eb7345","#41a3a5","#a3a38b","#aba748","#b87443","#6a3224"]
   }
 ]
